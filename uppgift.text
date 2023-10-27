@@ -1,0 +1,12 @@
+Det ska gå att skapa ett nytt band.
+Det ska gå att ta bort band.
+Det ska gå att skapa nya musiker.
+Det ska gå att ta bort musiker.
+Det ska gå att lägga till/ta bort en musiker till ett band, då ska även musikers lista över vilka band hen är med i uppdateras.
+Det ska gå att lägga till/ta bort ett band från en musiker, då ska även bandets lista över medlemmar uppdateras.
+En musiker ska kunna vara med i flera band (noll till flera)
+Ett band ska kunna ha en till flera medlemmar
+Det ska gå att visa information om en musiker, inklusive vilka band hen är med i. Musikerns ålder ska räknas ut och visas upp utifrån hens födelseår.
+Det ska gå att visa information om ett band, inklusive vilka musiker som finns med i det.
+Programmet ska vara skrivet objektorienterat, dvs. uppdelat i olika klasser. Arv och/eller komposition ska användas på ett bra sätt.
+Programmet ska hantera felaktiga användarval och använda felmeddelanden.
